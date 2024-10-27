@@ -1,4 +1,4 @@
-# Hi 👋 My name is Tapok
+# Hi 👋 My name is Tapok 👞
 
 I'm CMC MSU student
 
@@ -8,7 +8,7 @@ I'm CMC MSU student
 
 - Low-level programming  
 - Compilers  
-- Operstion systems (Unix-like, Windows)  
+- Operation systems (Unix-like, Windows)  
 - Reverse-engeneering  
 - Networks
 - FPGA
