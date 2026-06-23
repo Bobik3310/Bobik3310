@@ -1,10 +1,6 @@
 # Hi. My name is Tapok.
 
-I'm CMC MSU student
-
-## Quick overview
-
-### Interests  
+## Interests  
 
 - Low-level programming  
 - Compilers  
