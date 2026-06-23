@@ -12,8 +12,3 @@ I'm CMC MSU student
 - Reverse-engeneering  
 - Networks
 - FPGA
- 
-### I'm currently learning
-- GNU development
-- UNIX-like OS
-- C-lang
