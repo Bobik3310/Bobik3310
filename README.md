@@ -1,4 +1,4 @@
-# Hi 👋 My name is Tapok 👞
+# Hi. My name is Tapok.
 
 I'm CMC MSU student
 
